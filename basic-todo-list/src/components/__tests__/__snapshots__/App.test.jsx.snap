@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders as expected 1`] = `
+<div>
+  <h1>
+    Todo List
+  </h1>
+  <ul>
+    <li
+      onClick={[Function]}
+      style={
+        Object {
+          "textDecoration": "none",
+        }
+      }
+    >
+      Hello World !
+    </li>
+  </ul>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <button
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+</div>
+`;

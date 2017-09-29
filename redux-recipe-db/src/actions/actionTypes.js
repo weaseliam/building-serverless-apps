@@ -1,0 +1,2 @@
+export const CREATE_RECIPE = 'CREATE_RECIPE';
+export const SEARCH_RECIPE = 'SEARCH_RECIPE';

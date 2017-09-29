@@ -1,0 +1,35 @@
+{
+  "name": "aws-recipe-db-api",
+  "version": "1.0.0",
+  "description": "aws-recipe-db-api",
+  "main": "handler.js",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.121.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.3.0",
+    "serverless-webpack": "^3.0.0",
+    "webpack": "^3.6.0",
+    "webpack-node-externals": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.ecd.axway.int:cloudacademy/serverless/ldimana/aws-recipe-db-api.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

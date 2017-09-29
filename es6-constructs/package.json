@@ -1,0 +1,20 @@
+{
+  "name": "es6-constructs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.ecd.axway.int:cloudacademy/serverless/ldimana/es6-constructs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "21.1.0"
+  }
+}
